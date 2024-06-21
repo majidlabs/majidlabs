@@ -8,7 +8,7 @@ I'm currently learning iOS Development And Computer Engineering Basics.
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidlabs&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidlabs&layout=compact)
 
 ![Majid's github stats](https://github-readme-stats.vercel.app/api?username=majidlabs&count_private=true&show_icons=true&theme=onedark)
 
